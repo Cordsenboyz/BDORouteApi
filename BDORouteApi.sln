@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDORouteApi", "BDORouteApi\BDORouteApi.csproj", "{38BF931F-E42E-4243-B994-C6AD783638BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BF931F-E42E-4243-B994-C6AD783638BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BF931F-E42E-4243-B994-C6AD783638BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BF931F-E42E-4243-B994-C6AD783638BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BF931F-E42E-4243-B994-C6AD783638BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A7B0140-5F17-43B8-8118-776FE538522E}
+	EndGlobalSection
+EndGlobal
